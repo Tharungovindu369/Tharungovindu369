@@ -1,5 +1,5 @@
 # Hi there, I'm Govindu Tarun Kumar Reddy 👋
-### 🚀 Full Stack Web Developer | B.Tech CSE (2026)
+### 🚀 Full Stack Web Developer & Backend Engineer | B.Tech CSE (2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarungovindu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-2088FF?style=for-the-badge&logo=react&logoColor=white)](https://govindutarunkumarreddy-portfolio.netlify.app/)
@@ -9,13 +9,23 @@
 
 ### 👨‍💻 About Me
 - 🎓 **B.Tech in Computer Science and Engineering** (2022–2026) at Anurag University.
-- 💡 **Passionate Full Stack Developer** building production-grade web applications using **React.js, Node.js, Express, REST APIs, and SQL**.
-- 🛠️ **Real-world Deployment:** Built and deployed a live fleet tracking system managing 44 school buses for Prathibha Junior College.
+- 💡 **Passionate Full Stack & Backend Developer** building production-grade web applications with **FastAPI, Python, React.js, Node.js, Express, REST APIs, PostgreSQL, and SQL**.
+- 🛠️ **Real-world Deployments:** 
+  - Developed & deployed an active fleet tracking system managing 44 school buses for Prathibha Junior College.
+  - Developed an internal IT Support web portal for Ordnance Factory Medak (Ministry of Defence).
 - 🤝 **Leadership:** NSS Department Coordinator & Participant at National Adventure Camp 2024 (ABVIMAS RWSC).
 
 ---
 
 ### 🛠️ Tech Stack & Skills
+
+**Backend & APIs:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Frontend & Web Development:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -27,24 +37,25 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend & APIs:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Databases & Tools:**  
+**Databases, ORM & Testing:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
+
+#### 🤖 [JobPilot AI: Career Operating System Backend API](https://github.com/Tharungovindu369/jobpilot-ai)
+- State-of-the-art career platform backend implementing **Clean Architecture (DDD, CQRS, Repository Pattern)**.
+- **Tech Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy ORM, Alembic, Redis, JWT (OAuth2 Bearer), Pydantic, OpenAPI 3.1, Pytest (150+ tests).
+- **Features:** Resume parsing & scoring, job matching algorithms, skill-gap analysis, analytics dashboards, and JWT authentication.
+- **Link:** [GitHub Repository](https://github.com/Tharungovindu369/jobpilot-ai)
 
 #### 🚌 [Smart Bus Tracking & Fleet Management System](https://github.com/Tharungovindu369/school-bus-system) &bull; [Live Demo](https://prathibha-bus-tracker.onrender.com/)
 - Production full-stack fleet tracking system actively managing **44 school buses** for Prathibha Junior College.
