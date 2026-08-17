@@ -46,18 +46,20 @@
 
 ### 🚀 Featured Projects
 
-#### 🚌 [Smart Bus Tracking & Fleet Management System](https://prathibha-bus-tracker.onrender.com/)
+#### 🚌 [Smart Bus Tracking & Fleet Management System](https://github.com/Tharungovindu369/school-bus-system) &bull; [Live Demo](https://prathibha-bus-tracker.onrender.com/)
 - Production full-stack fleet tracking system actively managing **44 school buses** for Prathibha Junior College.
 - **Tech Stack:** React.js, React Hooks, Node.js, Express.js, REST APIs, Leaflet.js, OpenStreetMap, QR-code attendance.
-- **Live Demo:** [prathibha-bus-tracker.onrender.com](https://prathibha-bus-tracker.onrender.com/)
+- **Links:** [GitHub Repository](https://github.com/Tharungovindu369/school-bus-system) &bull; [Live Web App](https://prathibha-bus-tracker.onrender.com/)
 
-#### 🛡️ [Smart Mail Shield](https://github.com/Tharungovindu369)
+#### 🛡️ [Smart Mail Shield](https://github.com/Tharungovindu369/smart-mail-shield)
 - AI-based real-time email security system to detect spam and phishing threats using Machine Learning.
-- **Tech Stack:** Python, Machine Learning, Feature Extraction, REST API integration.
+- **Tech Stack:** Python, FastAPI, Scikit-Learn, Machine Learning, Feature Extraction, REST APIs.
+- **Link:** [GitHub Repository](https://github.com/Tharungovindu369/smart-mail-shield)
 
-#### 🚗 [Smart City Parking Reservation Platform](https://github.com/Tharungovindu369)
+#### 🚗 [Smart City Parking Reservation Platform](https://github.com/Tharungovindu369/smart-city-parking)
 - Interactive web portal enabling users to locate and reserve parking spaces with real-time availability filters.
-- **Tech Stack:** HTML, CSS, JavaScript, React.js, SQL database operations.
+- **Tech Stack:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS, REST APIs.
+- **Link:** [GitHub Repository](https://github.com/Tharungovindu369/smart-city-parking)
 
 ---
 
