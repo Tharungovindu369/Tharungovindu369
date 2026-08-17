@@ -51,15 +51,15 @@
 - **Tech Stack:** React.js, React Hooks, Node.js, Express.js, REST APIs, Leaflet.js, OpenStreetMap, QR-code attendance.
 - **Links:** [GitHub Repository](https://github.com/Tharungovindu369/school-bus-system) &bull; [Live Web App](https://prathibha-bus-tracker.onrender.com/)
 
-#### 🛡️ [Smart Mail Shield](https://github.com/Tharungovindu369/smart-mail-shield)
+#### 🛡️ [Smart Mail Shield](https://github.com/Tharungovindu369/smart-mail-shield) &bull; [Live Demo](https://smart-mail-shield.vercel.app/)
 - AI-based real-time email security system to detect spam and phishing threats using Machine Learning.
 - **Tech Stack:** Python, FastAPI, Scikit-Learn, Machine Learning, Feature Extraction, REST APIs.
-- **Link:** [GitHub Repository](https://github.com/Tharungovindu369/smart-mail-shield)
+- **Links:** [GitHub Repository](https://github.com/Tharungovindu369/smart-mail-shield) &bull; [Live Web App](https://smart-mail-shield.vercel.app/)
 
-#### 🚗 [Smart City Parking Reservation Platform](https://github.com/Tharungovindu369/smart-city-parking)
+#### 🚗 [Smart City Parking Reservation Platform](https://github.com/Tharungovindu369/smart-city-parking) &bull; [Live Demo](https://smart-city-parking-nine.vercel.app/)
 - Interactive web portal enabling users to locate and reserve parking spaces with real-time availability filters.
 - **Tech Stack:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS, REST APIs.
-- **Link:** [GitHub Repository](https://github.com/Tharungovindu369/smart-city-parking)
+- **Links:** [GitHub Repository](https://github.com/Tharungovindu369/smart-city-parking) &bull; [Live Web App](https://smart-city-parking-nine.vercel.app/)
 
 ---
 
