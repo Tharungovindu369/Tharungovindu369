@@ -66,8 +66,20 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharungovindu369&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tarun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharungovindu369&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Tharungovindu369">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharungovindu369&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Tarun's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Tharungovindu369">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tharungovindu369&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Top Languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Tharungovindu369">
+    <img src="https://streak-stats.demolab.com/?user=Tharungovindu369&theme=radical&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Tarun's GitHub Streak" />
+  </a>
 </div>
 
 ---
